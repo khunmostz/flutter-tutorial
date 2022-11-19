@@ -1,6 +1,4 @@
 import 'dart:ui';
-
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_tutorial/utils/constant.dart';
 import 'package:flutter_tutorial/widgets/transaction.dart';
